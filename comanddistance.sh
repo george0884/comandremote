@@ -13,3 +13,4 @@ expect eof
 ")
 echo "==============="
 echo "$VAR"
+#example ./comanddistance "ls -a"
