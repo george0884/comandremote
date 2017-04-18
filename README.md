@@ -6,3 +6,5 @@
 #chmod +x scripst.sh
 
 #./scripts.sh
+
+Read instruction inside each script before using
