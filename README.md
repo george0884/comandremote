@@ -3,7 +3,7 @@
 
 #estos scripts son utiles para automatizar el trabajo con servidor via shh.
 
-#sudo apt install expecte
+#sudo apt install expect
 
 #chmod +x scripst.sh
 
