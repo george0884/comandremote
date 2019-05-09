@@ -3,11 +3,11 @@
 
 #estos scripts son utiles para automatizar el trabajo con servidor via shh.
 
-#sudo apt install expect
+#```sudo apt install expect```
 
-#chmod +x scripst.sh
+#```chmod +x scripst.sh```
 
-#./scripts.sh
+#```./scripts.sh```
 
 Read instruction inside each script before using
 
